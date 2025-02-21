@@ -1,0 +1,1 @@
+This is the repository of codes for the data analytics on the tweet data 2025 for Superbowls. There are demo codes where we implememted first on the previous year dataset. We had some anakysis code files on other metrics as well.
